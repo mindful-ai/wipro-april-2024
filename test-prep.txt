@@ -1,0 +1,83 @@
+Programming Constructs
+Introduction to Programming Constructs
+Overview of Programming Constructs
+Variables, Expressions, and Statements
+Introduction to Pseudocode
+Pseudocode for Common Algorithms
+Sorting algorithms: Bubble, Selection, Insertion Sort
+Searching algorithms: Linear Search, Binary Search
+Control Flow Constructs and Flowcharts
+Conditional Constructs: If, Else, Switch
+Looping Constructs: For, While, Do-While
+Creating and Interpreting Flowcharts
+Efficient Flowcharting Techniques
+Using Subroutines in Flowcharts for Repeated Actions
+Flowchart Symbols for Concurrency and Synchronization
+Logical Thinking with Operators and Decision Trees
+Logical Operators: AND, OR, NOT
+Decision Trees for Problem Solving
+Flowchart Design for Decision Making Processes
+Functions and Modular Design
+Fundamentals of Function Design
+Modular Programming Concepts
+Writing Pseudocode for Modular Functions
+Algorithms and Problem-Solving
+Basic Algorithms with Pseudocode and Flowcharts using "Lucidchart"
+Algorithmic Thinking and Pseudocode
+Introduction to Sorting Algorithms: Bubble Sort and Insertion Sort
+Designing Flowcharts for Sorting Algorithms
+Algorithmic Problem Solving
+Problem Analysis for Algorithmic Solutions
+Implementing Search Algorithms: Linear Search and Binary Search
+Writing and Visualizing Search Algorithms
+Advanced Algorithms and Efficiency
+Exploring Recursive Algorithms: Fibonacci Sequence and Factorial Calculation
+Introduction to Efficiency: Understanding Big O Notation
+Algorithm Optimization Techniques
+Data Structures for Algorithmic Efficiency
+Introduction to Trees, Graphs, and Hash Tables
+Data Structures Role-play: Choosing the Right Data Structure for Various Scenarios
+Advanced Sorting and Searching
+Merge Sort, Quick Sort, and Heap Sort: Concepts and Pseudocode
+Advanced Searching Techniques: Hashing, Binary Search Trees
+Practical Application of Algorithms
+Application of Sorting and Searching Algorithms in Real-world Scenarios
+Dry Run: Step-by-Step Algorithm Testing
+Group Problem Solving and Algorithm Implementation
+
+
+PYTHON
+
+
+Python Language Fundamentals
+Introduction to Scripting
+What is scripting?
+Differences between scripting and programming
+History and Features of Python
+Evolution of Python
+Unique features of Python
+Python Pre-requisites
+Required software and hardware
+Basic programming knowledge
+Environment Setup for Python
+Installing Python
+Setting up IDE
+Python Basic Datatypes
+Understanding integers, floats, strings, and booleans
+Type conversion
+Python Variables, Keywords, Comments
+Declaring and using variables
+Understanding Python keywords
+Adding comments in Python
+Python Operators, Casting
+Arithmetic, comparison, logical, and bitwise operators
+Type casting in Python
+Data Types Overview
+Brief overview of Python data types
+Python I/O Expressions
+Inputting Statements
+Using the input() function
+Reading inputs of different datatypes
+Formatting the Output
+Using the print() function
+String formatting methods
