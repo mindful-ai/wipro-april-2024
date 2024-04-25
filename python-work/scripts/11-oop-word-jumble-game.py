@@ -5,6 +5,8 @@
 # second chance with hint -> offer 1 point
 # Key challenge: how to store the hints
 
+# 10:45 - 11:00 Tea Break
+# 11:00 - 11:20 Do the exercise
 
 import random
 
