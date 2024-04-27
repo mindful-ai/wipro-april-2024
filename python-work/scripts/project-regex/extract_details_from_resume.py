@@ -37,3 +37,6 @@ if m:
 m = re.search(name, content)
 if m:
     print('NAME      : ', m.groupdict()['Name'])
+
+
+print('IP        : ', m.groupdict()['Name'])
